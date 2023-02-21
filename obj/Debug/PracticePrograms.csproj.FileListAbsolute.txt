@@ -6,3 +6,11 @@ C:\Users\A\source\repos\ConsoleApp1\obj\Debug\PracticePrograms.csproj.SuggestedB
 C:\Users\A\source\repos\ConsoleApp1\obj\Debug\PracticePrograms.csproj.CoreCompileInputs.cache
 C:\Users\A\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\A\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\A\Source\Repos\ConsolePrograms\bin\Debug\ConsoleApp1.exe.config
+C:\Users\A\Source\Repos\ConsolePrograms\bin\Debug\ConsoleApp1.exe
+C:\Users\A\Source\Repos\ConsolePrograms\bin\Debug\ConsoleApp1.pdb
+C:\Users\A\Source\Repos\ConsolePrograms\obj\Debug\PracticePrograms.csproj.AssemblyReference.cache
+C:\Users\A\Source\Repos\ConsolePrograms\obj\Debug\PracticePrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Source\Repos\ConsolePrograms\obj\Debug\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\A\Source\Repos\ConsolePrograms\obj\Debug\ConsoleApp1.exe
+C:\Users\A\Source\Repos\ConsolePrograms\obj\Debug\ConsoleApp1.pdb

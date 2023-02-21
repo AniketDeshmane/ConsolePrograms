@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class CountOccurence
     {
         static void Main(string[] args)
         {
